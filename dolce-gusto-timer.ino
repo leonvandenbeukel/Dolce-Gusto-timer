@@ -44,7 +44,7 @@ int dataPin = 11;
      0     0     all off
 */
 int levels[8] = {0,1,3,7,15,31,63,127};     // Values for shift register to indicate level
-int times[8]  = {0,8,10,15,21,24,28,38};    // Timer seconds based on Dolce Gusto levels
+int times[8]  = {0,8,10,15,21,24,28,38};    // Timer seconds based on Dolce Gusto levels. I used this Android app to find out what the timings are: https://play.google.com/store/apps/details?id=com.dolcegustofree.activity
 
 int level = 0;
 double currentTimer = 0;
