@@ -1,4 +1,4 @@
-# Dolce-Gusto-timer
+# Arduino Dolce-Gusto-timer
 A hardware version of a Dolce Gusto timer
 
 Demo on Youtube:
@@ -8,3 +8,4 @@ Schema:
 ![alt tag](https://raw.githubusercontent.com/leonvandenbeukel/Dolce-Gusto-timer/master/Dolce-Gusto-Timer.png)
 
 See the .ino file for the source.
+For this project I used an arduino on a breadbord.
